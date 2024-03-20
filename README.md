@@ -1,4 +1,4 @@
-# face-recognition
+# Face-recognition
 • Developed an facial recognition app which is will detect faces of my classmates.
 • Developed an facial recognition app which is will detect faces of my classmates\\n
 • Built a facial recognition app using Python, integrating MTCNN for precise face detection and cropping, enhancing dataset quality.
